@@ -7,11 +7,26 @@ module.exports = {
   ],
   theme: {
     extend: {
+      inset: {
+        '128': '70%','785px': '785px',
+      },
+      height: {
+        '128': '450px',
+      },
+      margin: {
+        '128': '70%',
+      },
+      width: {
+        '128': '45%',
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily: {
+        body : ['Stick No Bills']
+      }
     },
   },
   plugins: [],
