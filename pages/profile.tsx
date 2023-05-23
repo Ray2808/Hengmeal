@@ -18,7 +18,7 @@ export async function getServerSideProps(context: NextPageContext) {
   return { props: {} };
 }
 
-export default function profile() {
+export default function Profile() {
   const { data: user } = useCurrentUser();
 
   return (
