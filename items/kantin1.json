@@ -1,0 +1,56 @@
+[
+    {
+        "nama": "Nasi putih Ayam Goreng",
+        "code": "KS1",
+        "price": 14000,
+        "image": "/gambar1.jpg"
+    },
+    {
+        "nama": "Nasi putih Ayam Katsu BBQ",
+        "code": "KS2",
+        "price": 14000,
+        "image": "/gambar2.jpg"
+    },
+    {
+        "nama": "Nasi putih Ayam Asam Manis",
+        "code": "KS3",
+        "price": 14000,
+        "image": "/gambar3.jpg"
+    },
+    {
+        "nama": "Nasi putih Ayam Lada Hitam",
+        "code": "KS4",
+        "price": 14000,
+        "image": "/gambar4.jpg"
+    },
+    {
+        "nama": "Nasi kuning Ayam Goreng",
+        "code": "KS5",
+        "price": 14000,
+        "image": "/gambar5.jpg"
+    },
+    {
+        "nama": "Nasi kuning Ayam Katsu BBQ",
+        "code": "KS6",
+        "price": 14000,
+        "image": "/gambar6.jpg"
+    },
+    {
+        "nama": "Nasi kuning Ayam Asam Manis",
+        "code": "KS7",
+        "price": 14000,
+        "image": "/gambar7.jpg"
+    },
+    {
+        "nama": "Nasi kuning Ayam Lada Hitam",
+        "code": "KS8",
+        "price": 14000,
+        "image": "/gambar8.jpg"
+    },
+    {
+        "nama": "Nasi Ayam",
+        "code": "KS9",
+        "price": 15000,
+        "image": "/gambar9.jpg"
+    }
+]

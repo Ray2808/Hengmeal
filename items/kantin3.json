@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Nasi kuning + nugget",
+        "code": "KT1",
+        "price": 10000,
+        "image": "/gambar16.jpg"
+    },
+    {
+        "nama": "Nasi putih + ayam goreng tepung",
+        "code": "KT",
+        "price": 13000,
+        "image": "/gambar17.jpg"
+    },
+    {
+        "nama": "Nasi putih + ayam teriyaki",
+        "code": "KT3",
+        "price": 13000,
+        "image": "/gambar18.jpg"
+    },
+    {
+        "nama": "Nasi putih + ayam geprek",
+        "code": "KT4",
+        "price": 13000,
+        "image": "/gambar19.jpg"
+    },
+    {
+        "nama": "Nasi goreng + ayam",
+        "code": "KT5",
+        "price": 13000,
+        "image": "/gambar20.jpg"
+    }
+]

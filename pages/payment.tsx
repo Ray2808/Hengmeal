@@ -1,5 +1,22 @@
 import link from "next/link"
 import Cart from "@/components/Cart";
+import { NextPageContext } from "next";
+import { getSession } from "next-auth/react";
+export async function getServerSideProps(context: NextPageContext) {
+  const session = await getSession(context);
+
+  if (!session) {
+    return {
+      redirect: {
+        destination: "/",
+        permanent: false
+      }
+    }
+  }
+
+  return { props: {} };
+}
+
 
 export default function payment() {
     return (
@@ -14,10 +31,10 @@ export default function payment() {
             </div>
             <div className="mx-auto mt-16 flex flex-row justify-center gap-20 w-full">
                 <div>
+                    {/* <Cart />
                     <Cart />
                     <Cart />
-                    <Cart />
-                    <Cart />
+                    <Cart /> */}
                 </div>
                 <div className="relative w-96 h-128 font-body bg-[#d9d9d9] rounded-3xl">
                     <hr className="w-4/5 border-b-3.5 border-dashed border-black mx-auto my-5" />

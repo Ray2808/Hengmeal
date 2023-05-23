@@ -1,0 +1,38 @@
+[
+    {
+        "nama": "Nasi kuning telur + mie",
+        "code": "KD1",
+        "price": 8000,
+        "image": "/gambar10.jpg"
+    },
+    {
+        "nama": "Nasi kuning telur + tempe",
+        "code": "KD",
+        "price": 8000,
+        "image": "/gambar11.jpg"
+    },
+    {
+        "nama": "Nasi kuning telur + nugget",
+        "code": "KD3",
+        "price": 10000,
+        "image": "/gambar12.jpg"
+    },
+    {
+        "nama": "Nasi goreng",
+        "code": "KD4",
+        "price": 5000,
+        "image": "/nasgor.png"
+    },
+    {
+        "nama": "Nasi kuning + katsu",
+        "code": "KD5",
+        "price": 13000,
+        "image": "/gambar6.jpg"
+    },
+    {
+        "nama": "Nasi putih + katsu",
+        "code": "KD6",
+        "price": 13000,
+        "image": "/gambar12.jpg"
+    }
+]
